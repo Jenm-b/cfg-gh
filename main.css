@@ -1,0 +1,11 @@
+body{
+  font-family: 'Roboto Mono', monospace;
+}
+.heading{
+  color: black;
+  font-size: 80px;
+}
+
+.navbar-brand{
+  color: pink;
+}
