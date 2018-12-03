@@ -1,11 +1,13 @@
-body{
-  font-family: 'Roboto Mono', monospace;
+/*- General -*/
+body {
+	font-family: "Raleway", Sans-serif;
+	-webkit-font-smoothing: antialiased;
 }
-.heading{
+.navbar .navbar-nav > li > a {
+	color:#fff;
+  padding-left: 50px;
+}
+.heading {
   color: black;
   font-size: 80px;
-}
-
-.navbar-brand{
-  color: pink;
 }
