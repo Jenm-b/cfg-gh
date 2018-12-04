@@ -11,3 +11,11 @@ body {
   color: black;
   font-size: 80px;
 }
+.tm-box-5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-height: 200px;
+}
