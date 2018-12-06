@@ -19,3 +19,34 @@ body {
   padding-right: 20px;
   min-height: 200px;
 }
+
+
+.name{
+	font-family: GEORGIA;
+  text-align: center;
+}
+.pic{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	max-width: 100%;
+	width: 420px;
+  height: 280px;
+  padding: 1px;
+
+}
+.description{
+ font-family: trebuchet;
+}
+.info {
+	text-align: center;
+}
+.add{
+	font-weight: bold;
+}
+.tel{
+	font-weight: bold;
+}
+.open{
+	font-weight: bold;
+}
