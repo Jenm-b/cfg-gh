@@ -11,7 +11,7 @@ body {
   color: black;
   font-size: 80px;
 }
-.tm-box-5 {
+.tm-box-1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,6 +22,11 @@ body {
 
 .tm-box-2 {
 	background-color: #eeeeee;
+	text-align: center;
+}
+
+.fact {
+	font-weight: bold;
 }
 
 .name{
